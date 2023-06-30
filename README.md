@@ -48,7 +48,7 @@ h1 {
 
 <!-- image -->
 
-![](https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg)
+![image](https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg)
 
 <!-- quote -->
 
@@ -59,6 +59,9 @@ h1 {
 <!-- horizontal lines -->
 
 ---
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ---
 
